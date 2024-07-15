@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/saharan/nike/:/",
-    "/content/saharan/nike/metadata.json:/metadata.json",
-    "/content/saharan/nike/redirects.json:/redirects.json"
+    "/content/admin/adidas/:/",
+    "/content/admin/adidas/metadata.json:/metadata.json",
+    "/content/admin/adidas/redirects.json:/redirects.json"
   ]
 }
